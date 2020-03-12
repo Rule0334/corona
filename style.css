@@ -1,0 +1,30 @@
+h1 {
+    color: mediumblue;
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+    color: orange;
+}
+
+th, td, tr{
+    text-align: center;
+}
+
+#today, #date{
+    font-size: 30px;
+    text-align: center;
+}
+
+#notice {
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+
+#contact {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
